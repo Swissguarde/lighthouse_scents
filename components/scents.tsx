@@ -26,9 +26,6 @@ export function Scents() {
               reflection and empowered calm.
             </CardDescription>
           </CardHeader>
-          <CardContent className="flex items-center gap-2 w-full">
-            <Contact />
-          </CardContent>
         </Card>
       </TabsContent>
       <TabsContent value="ember-luxe">
@@ -41,9 +38,6 @@ export function Scents() {
               scent for the bold who crave calm.{" "}
             </CardDescription>
           </CardHeader>
-          <CardContent className="flex items-center gap-2 w-full">
-            <Contact />
-          </CardContent>
         </Card>
       </TabsContent>
       <TabsContent value="amber-reign">
@@ -58,9 +52,6 @@ export function Scents() {
               breath.
             </CardDescription>
           </CardHeader>
-          <CardContent className="flex items-center gap-2 w-full">
-            <Contact />
-          </CardContent>
         </Card>
       </TabsContent>
     </Tabs>

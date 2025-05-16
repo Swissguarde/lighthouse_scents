@@ -49,15 +49,13 @@ export function Scents() {
       <TabsContent value="amber-reign">
         <Card>
           <CardHeader>
-            <CardTitle>Ember Luxe</CardTitle>
+            <CardTitle>Amber Reign</CardTitle>
             <CardDescription>
               This scent creates an emotion of luxurious seduction and fearless
               poise. It feels like walking into a room and owning it—magnetic
               energy wrapped in timeless warmth. A scent that commands
               attention, fierce, warm, and unforgettable. Confidence in every
-              breath. i want to have three tabs in this component, these are the
-              titles and description of all three tabs, modify this component.
-              get rid of what we currently have and replace with these
+              breath.
             </CardDescription>
           </CardHeader>
           <CardContent className="flex items-center gap-2 w-full">

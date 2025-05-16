@@ -15,7 +15,7 @@ export default function Home() {
         </h2>
         <Scents />
         <hr className="w-full mt-12" />
-        <div className="grid grid-cols-2 items-center gap-2 w-full mt-6">
+        <div className="flex items-center gap-2 w-full mt-6">
           <Contact />
         </div>
       </div>
